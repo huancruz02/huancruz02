@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Huan Cruz 
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
 Me chamo Huan Cruz de Oliveira, tenho 20 anos e sou natural de Manaus. Atualmente, estou cursando Engenharia de Software. Sou apaixonado por tecnologia!
 
