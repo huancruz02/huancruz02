@@ -24,20 +24,7 @@ Me chamo Huan Cruz de Oliveira, tenho 20 anos e sou natural de Manaus. Atualment
           <img align="center" alt="MariaDb"src= "https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=whit" />
           <img align="center" alt="MariaDb" src=https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB />
           
-          
-
-</div>
-  
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{fabiobrasileiroo}/count.svg" /></p> 
-<br>
-
-
-
-
-
-</div><br/>
+     
 
 **"A tecnologia transforma vidas, conectando ideias e criando novas possibilidades."**
 
