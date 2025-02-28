@@ -2,11 +2,11 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Huan Cruz de Oliveira, tenho 20 anos e sou natural de Manaus. Atualmente, estou cursando Engenharia de Software e sou apaixonado por tecnologia. Desde que entrei nesse universo, busco constantemente aprender e aprimorar minhas habilidades para desenvolver soluções inovadoras e eficientes.
+Me chamo Huan Cruz de Oliveira, tenho 20 anos e sou natural de Manaus. Atualmente, estou cursando **Engenharia de Software** e sou apaixonado por tecnologia 🚀. Desde que entrei nesse universo, busco constantemente aprender e aprimorar minhas habilidades para desenvolver soluções inovadoras e eficientes.  
 
-Meu foco principal está no desenvolvimento Fullstack, explorando diferentes linguagens, frameworks e arquiteturas para criar aplicações escaláveis e bem estruturadas. Gosto de enfrentar desafios e entender como as tecnologias podem ser aplicadas para resolver problemas do mundo real.
+Meu foco principal está no **desenvolvimento Fullstack**, explorando diferentes linguagens, frameworks e arquiteturas para criar aplicações escaláveis e bem estruturadas 💡. Gosto de enfrentar desafios e entender como as tecnologias podem ser aplicadas para resolver problemas do mundo real.  
 
-Além da programação, estou sempre me atualizando sobre novas tendências do mercado e aprimorando meu conhecimento em engenharia de software, banco de dados, APIs e boas práticas de desenvolvimento. Meu objetivo é evoluir constantemente e contribuir com projetos que tenham impacto positivo.
+Além da programação, estou sempre me atualizando sobre novas tendências do mercado e aprimorando meu conhecimento em **engenharia de software, banco de dados, APIs e boas práticas de desenvolvimento** 📚. Meu objetivo é evoluir constantemente e contribuir com projetos que tenham impacto positivo 💻.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/huan-cruz-9286ba341)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
